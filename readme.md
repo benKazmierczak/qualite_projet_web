@@ -24,3 +24,14 @@ Une interface utilisateur c'est un peu comme une blague si ont doit l'expliquer 
 ![alt text](img/exp_design.png "exp design")
 
 ![alt text](img/exp_design2.png "exp design2")
+
+
+**Design système :**
+
+le Design System définit le design des plus petits éléments (textes, titres, formulaires) aux grilles, palettes de couleurs, blocs ou composants
+
+Exemple de design système : 
+- https://material.io/
+
+## Dev & UX : 
+![alt text](img/dev&UX.png "dev & UX")
